@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Salary,Experience,City
+201,Aman,IT,55000,3,Bangalore
+202,Sana,HR,,5,Hyderabad
+203,Rohit,IT,62000,,Delhi
+204,Zara,Finance,58000,4,
+205,Arjun,IT,60000,2,Bangalore
+206,Meera,HR,52000,3,Chennai
+207,Karan,,49000,1,Delhi
+208,Fatima,Finance,,6,Mumbai
+209,Riya,IT,61000,4,Bangalore
+210,Ahmed,HR,53000,,Hyderabad

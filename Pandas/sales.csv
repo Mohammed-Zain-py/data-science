@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Price,Quantity,City
+1001,Laptop,Electronics,55000,2,Bangalore
+1002,Mouse,Electronics,800,5,Hyderabad
+1003,Chair,Furniture,3500,3,Delhi
+1004,Table,Furniture,7000,1,Mumbai
+1005,Phone,Electronics,30000,4,Bangalore
+1006,Notebook,Stationery,100,10,Chennai
+1007,Pen,Stationery,20,50,Delhi
+1008,Monitor,Electronics,12000,2,Hyderabad
+1009,Sofa,Furniture,15000,1,Mumbai
+1010,Keyboard,Electronics,1500,3,Bangalore
